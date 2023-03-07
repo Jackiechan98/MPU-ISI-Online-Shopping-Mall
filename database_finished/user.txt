@@ -1,0 +1,2 @@
+"uid"	"password"	"uName"	"uAddress"	"uTel"	"email"
+"000001"	"0a620481ca00b00de7eedb407a68b9163dcabae3"	"Tom"	"tomtest@ipm.edu.mo"		"Macao"

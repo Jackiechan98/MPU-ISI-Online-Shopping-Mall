@@ -1,0 +1,51 @@
+-category
+1.graphic card
+
+a.msi:
+official site:
+https://www.msi.com/Graphics-Cards#?tag=GeForce-RTX%26trade%3B-3090
+JD search:
+https://list.jd.com/list.html?cat=670%2C677%2C679&ev=exbrand_%E5%BE%AE%E6%98%9F%EF%BC%88MSI%EF%BC%89%5E&shop=1&click=1
+
+b.asus(rog)
+official site:
+https://rog.asus.com/graphics-cards/graphics-cards/rog-strix-series?FilterLevelTagId=10903&tagID=429&items=
+JD search:
+https://mall.jd.com/view_search-416883-2981962-99-1-20-1.html
+
+c.colorful(igame)
+official site:
+https://en.colorful.cn/product.aspx?mid=102
+JD search:
+https://colorful.jd.com/view_search-1811935-15261189-99-1-20-1.html
+
+d.gigabyte
+official site:
+https://www.gigabyte.com/Graphics-Card/NVIDIA-Series
+JD search:
+https://gigabyteqj.jd.com/view_search-1476037-12809209-5-1-24-1.html
+
+2.CPU
+a.intel:
+official site:
+https://ark.intel.com/content/www/cn/zh/ark.html#@PanelLabel122139
+JD search:
+https://mall.jd.com/index-1000000693.html?from=pc
+
+b.amd
+official site:
+https://www.amd.com/en/processors/ryzen
+JD search:
+https://sale.jd.com/mall/chOkMQLwFz.html1&prototypeId=1#206326274
+
+
+3.motherboard
+
+
+
+
+-brand
+1.msi
+2.asus
+3.colorful
+4.gigabyte

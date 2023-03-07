@@ -1,0 +1,1 @@
+"cu_id"	"img"	"shuliang"	"amount"

@@ -1,0 +1,113 @@
+"goods_id"	"brand_id"	"goods_name"	"image"	"price"	"remaining"	"status"	"description"	"image2"	"image3"	"image4"	"image5"
+"151"	"3"	"Gigabyte AORUS GeForce RTX 3080"	"http://127.0.0.1:4444/static/AORUS 3080-1.png"	"7999"	"500"	"0"	"CUDA: 8704  Core Clock: 1905 MHz  Memory: 10G"	"http://127.0.0.1:4444/static/AORUS 3080-2.png"	"http://127.0.0.1:4444/static/AORUS 3080-3.png"		
+"152"	"3"	"Gigabyte AORUS GeForce RTX 3070"	"http://127.0.0.1:4444/static/AORUS 3070-1.png"	"5999"	"500"	"0"	"CUDA: 5888  Core Clock: 1845 MHz  Memory: 8G"	"http://127.0.0.1:4444/static/AORUS 3070-2.png"	"http://127.0.0.1:4444/static/AORUS 3070-3.png"		
+"153"	"3"	"Gigabyte AORUS GeForce RTX 3060Ti"	"http://127.0.0.1:4444/static/AORUS 3060ti-1.png"	"4599"	"500"	"0"	"CUDA: 4864  Core Clock: 1800 MHz  Memory: 8G"	"http://127.0.0.1:4444/static/AORUS 3060ti-2.png"	"http://127.0.0.1:4444/static/AORUS 3060ti-3.png"		
+"154"	"3"	"Gigabyte AORUS GeForce RTX 3060"	"http://127.0.0.1:4444/static/AORUS 3060-1.png"	"3599"	"500"	"0"	"CUDA: 3584  Core Clock: 1837 MHz  Memory: 12G"	"http://127.0.0.1:4444/static/AORUS 3060-2.png"	"http://127.0.0.1:4444/static/AORUS 3060-3.png"		
+"156"	"3"	"Gigabyte AORUS GeForce GTX 1060"	"http://127.0.0.1:4444/static/AORUS 1060-1.png"	"1799"	"500"	"0"	"CUDA: 1147  Core Clock: 1785MHz  Memory: 6G"	"http://127.0.0.1:4444/static/AORUS 1060-2.png"	"http://127.0.0.1:4444/static/AORUS 1060-3.png"		
+"158"	"3"	"GIGABYTE GeForce RTX 3060Ti GAMING OC"	"http://127.0.0.1:4444/static/GAMING 3060ti-1.png"	"4299"	"500"	"0"	"CUDA: 3584  Core Clock: 1837 MHz  Memory: 12G"	"http://127.0.0.1:4444/static/GAMING 3060ti-2.png"	"http://127.0.0.1:4444/static/GAMING 3060ti-3.png"		
+"159"	"3"	"GIGABYTE GeForce RTX 3080 GAMING OC"	"http://127.0.0.1:4444/static/GAMING 3080-1.png"	"6999"	"500"	"0"	"CUDA: 8704  Core Clock: 1800 MHz  Memory: 10G"	"http://127.0.0.1:4444/static/GAMING 3070-2.png"	"http://127.0.0.1:4444/static/GAMING 3070-3.png"		
+"160"	"3"	"GIGABYTE GeForce RTX 3070 GAMING OC"	"http://127.0.0.1:4444/static/GAMING 3070-1.png"	"5399"	"500"	"0"	"CUDA: 5888  Core Clock: 1815 MHz  Memory: 8G"	"http://127.0.0.1:4444/static/GAMING 3070-2.png"	"http://127.0.0.1:4444/static/GAMING 3070-3.png"		
+"161"	"3"	"GIGABYTE AORUS Radeon RX 6800XT"	"http://127.0.0.1:4444/static/AORUS 6800xt-1.png"	"6999"	"500"	"0"	"Stream Processors: 4608  Core Clock: 1845 MHz  Memory: 16G"	"http://127.0.0.1:4444/static/AORUS 6800xt-2.png"	"http://127.0.0.1:4444/static/AORUS 6800xt-3.png"		
+"162"	"3"	"GIGABYTE Radeon RX 6900XT GAMING OC"	"http://127.0.0.1:4444/static/GAMING 6900xt-1.png"	"9599"	"500"	"0"	"Stream Processors: 5120  Core Clock: 2050 MHz  Memory: 16G"	"http://127.0.0.1:4444/static/GAMING 6900xt-2.png"	"http://127.0.0.1:4444/static/GAMING 6900xt-3.png"		
+"163"	"3"	"GIGABYTE Radeon RX 6800 GAMING OC"	"http://127.0.0.1:4444/static/GAMING 6800-1.png"	"4999"	"500"	"0"	"Stream Processors: 3840  Core Clock: 1925 MHz  Memory: 16G"	"http://127.0.0.1:4444/static/GAMING 6800-2.png"	"http://127.0.0.1:4444/static/GAMING 6800-3.png"		
+"164"	"3"	"GIGABYTE Radeon RX 6800XT GAMING OC"	"http://127.0.0.1:4444/static/GAMING 6800xt-1.png"	"5599"	"500"	"0"	"Stream Processors: 4608  Core Clock: 2045 MHz  Memory: 16G"	"http://127.0.0.1:4444/static/GAMING 6800xt-2.png"	"http://127.0.0.1:4444/static/GAMING 6800xt-3.png"		
+"165"	"3"	"GIGABYTE Radeon RX 6700XT GAMING OC"	"http://127.0.0.1:4444/static/GAMING 6700xt-1.png"	"4299"	"500"	"0"	"Stream Processors: 2560  Core Clock: 1950 MHz  Memory: 12G"	"http://127.0.0.1:4444/static/GAMING 6700xt-2.png"	"http://127.0.0.1:4444/static/GAMING 6700xt-3.png"		
+"166"	"4"	"iGame GeForce RTX 3090 Vulcan OC"	"http://127.0.0.1:4444/static/Vulcan 3090-1.png"	"13599"	"500"	"0"	"CUDA: 10496 Core Clock: 1950 MHz  Memory: 24G"	"http://127.0.0.1:4444/static/Vulcan 3090-2.png"	"http://127.0.0.1:4444/static/Vulcan 3090-3.png"		
+"167"	"4"	"iGame GeForce RTX 3090 Advanced OC"	"http://127.0.0.1:4444/static/Advanced 3090-1.png"	"12999"	"500"	"0"	"CUDA: 10496 Core Clock: 1945 MHz  Memory: 24G"	"http://127.0.0.1:4444/static/Advanced 3090-2.png"	"http://127.0.0.1:4444/static/Advanced 3090-3.png"		
+"168"	"4"	"iGame GeForce RTX 3080 Vulcan OC"	"http://127.0.0.1:4444/static/Vulcan 3080-1.png"	"7599"	"500"	"0"	"CUDA: 8704 Core Clock: 1900 MHz  Memory: 10G"	"http://127.0.0.1:4444/static/Vulcan 3080-2.png"	"http://127.0.0.1:4444/static/Vulcan 3080-3.png"		
+"169"	"4"	"iGame GeForce RTX 3080 Advanced OC"	"http://127.0.0.1:4444/static/Advanced 3080-1.png"	"7299"	"500"	"0"	"CUDA: 8704 Core Clock: 1910 MHz  Memory: 10G"	"http://127.0.0.1:4444/static/Advanced 3080-2.png"	"http://127.0.0.1:4444/static/Advanced 3080-3.png"		
+"170"	"4"	"iGame GeForce RTX 3070 Vulcan OC"	"http://127.0.0.1:4444/static/Vulcan 3070-1.png"	"6199"	"500"	"0"	"CUDA: 8888 Core Clock: 1820 MHz  Memory: 8G"	"http://127.0.0.1:4444/static/Vulcan 3070-2.png"	"http://127.0.0.1:4444/static/Vulcan 3070-3.png"		
+"171"	"4"	"iGame GeForce RTX 3070 Advanced OC"	"http://127.0.0.1:4444/static/Advanced 3070-1.png"	"5999"	"500"	"0"	"CUDA: 5888 Core Clock: 1800 MHz  Memory: 8G"	"http://127.0.0.1:4444/static/Advanced 3070-2.png"	"http://127.0.0.1:4444/static/Advanced 3070-3.png"		
+"172"	"4"	"iGame GeForce RTX 3060Ti Vulcan OC"	"http://127.0.0.1:4444/static/Vulcan 3060ti-1.png"	"4799"	"500"	"0"	"CUDA: 4864 Core Clock: 1750 MHz  Memory: 8G"	"http://127.0.0.1:4444/static/Vulcan 3060ti-2.png"	"http://127.0.0.1:4444/static/Vulcan 3060ti-3.png"		
+"173"	"4"	"iGame GeForce RTX 3060Ti Advanced OC"	"http://127.0.0.1:4444/static/Advanced 3060ti-1.png"	"4699"	"500"	"0"	"CUDA: 4864 Core Clock: 1730 MHz  Memory: 8G"	"http://127.0.0.1:4444/static/Advanced 3060ti-2.png"	"http://127.0.0.1:4444/static/Advanced 3060ti-3.png"		
+"174"	"4"	"iGame GeForce RTX 2080Ti RNG Edition"	"http://127.0.0.1:4444/static/rng-1.png"	"13999"	"500"	"0"	"CUDA: 4352  Core Clock: 1720 MHz  Memory: 11G"	"http://127.0.0.1:4444/static/rng-2.png"	"http://127.0.0.1:4444/static/rng-3.png"		
+"175"	"4"	"iGame GeForce RTX 2080Ti Advanced"	"http://127.0.0.1:4444/static/iGame 2080ti-1.png"	"11999"	"500"	"0"	"CUDA: 4352  Core Clock: 1700 MHz  Memory: 11G"	"http://127.0.0.1:4444/static/iGame 2080ti-2.png"	"http://127.0.0.1:4444/static/iGame 2080ti-3.png"		
+"176"	"4"	"iGame GeForce RTX 2080 Advanced"	"http://127.0.0.1:4444/static/iGame 2080-1.png"	"7999"	"500"	"0"	"CUDA: 2944  Core Clock: 1700 MHz  Memory: 8G"	"http://127.0.0.1:4444/static/iGame 2080-2.png"	"http://127.0.0.1:4444/static/iGame 2080-3.png"		
+"177"	"4"	"iGame GeForce RTX 2070 Ultra"	"http://127.0.0.1:4444/static/iGame 2070-1.png"	"4299"	"500"	"0"	"CUDA: 2304  Core Clock: 1670 MHz  Memory: 8G"	"http://127.0.0.1:4444/static/iGame 2070-2.png"	"http://127.0.0.1:4444/static/iGame 2070-3.png"		
+"178"	"4"	"iGame GeForce RTX 2060 Ultra"	"http://127.0.0.1:4444/static/iGame 2060-1.png"	"2999"	"500"	"0"	"CUDA: 1920  Core Clock: 1620 MHz  Memory: 8G"	"http://127.0.0.1:4444/static/iGame 2060-2.png"	"http://127.0.0.1:4444/static/iGame 2060-3.png"		
+"179"	"4"	"iGame GeForce GTX 1660 Ultra"	"http://127.0.0.1:4444/static/iGame 1660-1.png"	"1999"	"500"	"0"	"CUDA: 1408  Core Clock: 1620 MHz  Memory: 6G"	"http://127.0.0.1:4444/static/iGame 1660-2.png"	"http://127.0.0.1:4444/static/iGame 1660-3.png"		
+"180"	"4"	"iGame GeForce GTX 1650 Ultra"	"http://127.0.0.1:4444/static/iGame 1650-1.png"	"1599"	"499"	"0"	"CUDA: 896  Core Clock: 1600 MHz  Memory: 4G"	"http://127.0.0.1:4444/static/iGame 1650-2.png"	"http://127.0.0.1:4444/static/iGame 1650-3.png"		
+"100"	"1"	"ASUS RX 6700 XT"	"http://127.0.0.1:4444/static/TUF Gaming Radeon RX 6700 XT 1.png"	"4999"	"754"	"1"	"Stream Processor:4506
+Core Clock Speed:2622 MHz  
+Memory:16G
+"	"http://127.0.0.1:4444/static/TUF Gaming Radeon RX 6700 XT 2.png"	"http://127.0.0.1:4444/static/TUF Gaming Radeon RX 6700 XT 3.png"		
+"101"	"1"	"ASUS STRIX LC RX 6900 XT"	"http://127.0.0.1:4444/static/ASUS STRIX LC RX 6900 XT 1.png"	"3999"	"575"	"1"	"Stream Processor:4698
+Core Clock Speed:2365 MHz  
+Memory:16G
+"	"http://127.0.0.1:4444/static/ASUS STRIX LC RX 6900 XT 2.png"	"http://127.0.0.1:4444/static/ASUS STRIX LC RX 6900 XT 3.png"		
+"102"	"1"	"ROG Strix Radeon RX 5600 XT"	"http://127.0.0.1:4444/static/ROG Strix Radeon RX 5600 XT 1.png"	"2999"	"415"	"1"	"Stream Processor:7512
+Core Clock Speed:1670 MHz  
+Memory:16G
+"	"http://127.0.0.1:4444/static/ROG Strix Radeon RX 5600 XT 1.png"	"http://127.0.0.1:4444/static/ROG Strix Radeon RX 5600 XT 3.png"		
+"103"	"1"	"STRIX-RX5500XT-O8G-GAMING"	"http://127.0.0.1:4444/static/STRIX-RX5500XT-O8G-GAMING 1.png"	"3799"	"37"	"1"	"Stream Processor:8704 
+Core Clock:1800 MHz  
+Memory:10G
+"	"http://127.0.0.1:4444/static/STRIX-RX5500XT-O8G-GAMING 2.png"	"http://127.0.0.1:4444/static/STRIX-RX5500XT-O8G-GAMING 3.png"		
+"104"	"2"	"ROG-STRIX-RX560-4G"	"http://127.0.0.1:4444/static/ROG-STRIX-RX560-4G-GAMING 1.png"	"4699"	"244"	"1"	"Stream Processor:8704 
+Core Clock:1800 MHz  
+Memory:10G
+"	"http://127.0.0.1:4444/static/ROG-STRIX-RX560-4G-GAMING 2.png"	"http://127.0.0.1:4444/static/ROG-STRIX-RX560-4G-GAMING 3.png"		
+"105"	"1"	"DUAL-RTX2070-O8G-MINI"	"http://127.0.0.1:4444/static/DUAL-RTX2070-O8G-MINI 1.png"	"4299"	"385"	"1"	"Stream Processor:2304
+Core Clock:14000MHz
+Memory:8GB
+"	"http://127.0.0.1:4444/static/DUAL-RTX2070-O8G-MINI 2.png"	"http://127.0.0.1:4444/static/DUAL-RTX2070-O8G-MINI 3.png"		
+"106"	"1"	"ROG-STRIX-RTX3080-O10G"	"http://127.0.0.1:4444/static/ROG-STRIX-RTX3080-O10G 1.png"	"4699"	"421"	"1"	"Stream Processor:8704
+Core Clock:1935MHz
+Memory:10GB
+"	"http://127.0.0.1:4444/static/ROG-STRIX-RTX3080-O10G 2.png"	"http://127.0.0.1:4444/static/ROG-STRIX-RTX3080-O10G 3.png"		
+"107"	"1"	"DUAL-RTX3060-12G"	"http://127.0.0.1:4444/static/DUAL-RTX3060-12G 1.png"	"6899"	"41"	"1"	"Stream Processor:3584
+Core Clock:1807MHz
+Memory:12GB
+"	"http://127.0.0.1:4444/static/DUAL-RTX3060-12G 2.png"	"http://127.0.0.1:4444/static/DUAL-RTX3060-12G 3.png"		
+"108"	"1"	"DUAL-GTX1650-O4GD6-MINI"	"http://127.0.0.1:4444/static/DUAL-GTX1650-O4GD6-MINI 1.png"	"5799"	"277"	"1"	"Stream Processor:896
+Core Clock:1650MHz
+Memory:12GB
+"	"http://127.0.0.1:4444/static/DUAL-GTX1650-O4GD6-MINI 2.png"	"http://127.0.0.1:4444/static/DUAL-GTX1650-O4GD6-MINI 3.png"		
+"109"	"1"	"RTX2060S-O8G-GAMING3"	"http://127.0.0.1:4444/static/RTX2060S-O8G-GAMING 1.png"	"9299"	"741"	"1"	"Stream Processor:784
+Core Clock:1680MHz
+Memory:12GB
+"	"http://127.0.0.1:4444/static/RTX2060S-O8G-GAMING 2.png"	"http://127.0.0.1:4444/static/RTX2060S-O8G-GAMING 3.png"		
+"112"	"1"	"TUF-GAMING-X3-GeForce-GTX-1660"	"http://127.0.0.1:4444/static/TUF-GAMING-X3-GeForce-GTX-1660 1.png"	"5799"	"15"	"1"	"Stream Processor:640
+Core Clock:1506MHz
+Memory:2GB
+"	"http://127.0.0.1:4444/static/TUF-GAMING-X3-GeForce-GTX-1660 2.png"	"http://127.0.0.1:4444/static/TUF-GAMING-X3-GeForce-GTX-1660 3.png"		
+"113"	"1"	"Rog-strix-rtx3060"	"http://127.0.0.1:4444/static/rog-strix-rtx3060 1.png"	"4599"	"89"	"1"	"Stream Processor:5888
+Core Clock:1755MHz
+Memory:8GB
+"	"http://127.0.0.1:4444/static/rog-strix-rtx3060 2.png"	"http://127.0.0.1:4444/static/rog-strix-rtx3060 3.png"		
+"114"	"1"	"TUF-GAMING-X3-GeForce-GTX-1660"	"http://127.0.0.1:4444/static/TUF Gaming Radeon RX 6700 XT 1.png"	"6899"	"54"	"1"	"Stream Processor:5888
+Core Clock:1755MHz
+Memory:8GB
+"	"http://127.0.0.1:4444/static/TUF Gaming Radeon RX 6700 XT 1.png"	"http://127.0.0.1:4444/static/TUF Gaming Radeon RX 6700 XT 1.png"		
+"115"	"1"	"rog-strix-rtx3070"	"http://127.0.0.1:4444/static/TUF Gaming Radeon RX 6700 XT 1.png"	"7899"	"412"	"1"	"Stream Processor:7512
+Core Clock Speed:1670 MHz  
+Memory:16G
+"	"http://127.0.0.1:4444/static/TUF Gaming Radeon RX 6700 XT 1.png"	"http://127.0.0.1:4444/static/TUF Gaming Radeon RX 6700 XT 1.png"		
+"116"	"1"	"RTX2060S-O8G-GAMING3"	"http://127.0.0.1:4444/static/RTX2060S-O8G-GAMING3 1.png"	"6799"	"15"	"1"	"Stream Processors: 3840  Core Clock: 1925 MHz  Memory: 16G"	"http://127.0.0.1:4444/static/RTX2060S-O8G-GAMING3 2.png"	"http://127.0.0.1:4444/static/RTX2060S-O8G-GAMING3 3.png"		
+"210"	"5"	"Intel i7 10700K"	"http://127.0.0.1:4444/static/Intel i7 10700K 1.png"	"326"	"999"	"0"	"Brand: Intel; CPU Model: Core i7; CPU Speed: 3.8 GHz; Processor Count: 8; Cache Size: 16 MB; 8 Cores / 16 Threads; Socket type LGA 1200; Up to 5.1 GHz unlocked"	"http://127.0.0.1:4444/static/Intel i7 10700K 2.png"	"http://127.0.0.1:4444/static/Intel i7 10700K 3.png"		
+"212"	"5"	"Intel i9 10900"	"http://127.0.0.1:4444/static/Intel i9 10900 1.png"	"379"	"999"	"0"	"Brand: Intel; CPU Model: Core i9; CPU Speed: 2.8 GHz; Processor Count: 10; Cache Size: 20 MB; 10 Cores / 20 Threads; Socket Type LGA 1200; Up to 5.2 GHz"	"http://127.0.0.1:4444/static/Intel i9 10900 2.png"	"http://127.0.0.1:4444/static/Intel i9 10900 3.png"		
+"206"	"5"	"Intel i3 10100"	"http://127.0.0.1:4444/static/Intel i3 10100 1.png"	"103"	"999"	"0"	"Brand: Intel; CPU Model: Core i3; CPU Speed: 3.6 GHz; CPU Socket: BGA 437; Processor Count: 4; 4 Cores / 8 Threads; Socket Type LGA 1200; Up to 4.3 GHz"	"http://127.0.0.1:4444/static/Intel i3 10100 2.png"	"http://127.0.0.1:4444/static/Intel i3 10100 3.png"		
+"208"	"5"	"Intel i5 10400F"	"http://127.0.0.1:4444/static/Intel i5 10400F 1.png"	"159"	"999"	"0"	"Brand: Intel; CPU Model: Core i5; CPU Speed: 2.9 GHz; CPU Socket: BGA 437; Processor Count: 6; 6 cores / 12 threads; Socket Type LGA 1200; Up to 4.3 GHz"	"http://127.0.0.1:4444/static/Intel i5 10400F 2.png"	"http://127.0.0.1:4444/static/Intel i5 10400F 3.png"		
+"211"	"5"	"Intel i7 9700K"	"http://127.0.0.1:4444/static/Intel i7 9700K 1.png"	"310"	"999"	"0"	"Brand: Intel; CPU Model: Core i7; CPU Speed: 4.9 GHz; CPU Socket: LGA 1151; Processor Count: 8; 8 Cores / 8 Threads; 3.60 GHz up to 4.90 GHz / 12 MB Cache"	"http://127.0.0.1:4444/static/Intel i7 9700K 2.png"	"http://127.0.0.1:4444/static/Intel i7 9700K 3.png"		
+"207"	"5"	"Intel i3 9100F"	"http://127.0.0.1:4444/static/Intel i3 9100F 1.png"	"149"	"999"	"0"	"Brand: Intel; CPU Model: Core i3; CPU Speed: 3.6 GHz; CPU Socket: LGA 1151; Processor Count: 4; 4 Cores /4 Threads; Up to 4.2 GHz. Total Storage size=512 GB. Max TDP = 65 W"	"http://127.0.0.1:4444/static/Intel i3 9100F 2.png"	"http://127.0.0.1:4444/static/Intel i3 9100F 3.png"		
+"209"	"5"	"Intel i5 9400F"	"http://127.0.0.1:4444/static/Intel i5 9400F 1.png"	"170"	"999"	"0"	"Brand: Intel; CPU Model: Core i5; CPU Speed: 2.9 GHz; CPU Socket: LGA 1151; Processor Count: 6; 6 Cores/ 6 Threads; 2.90 GHz up to 4.10 GHz Max Turbo Frequency/ 9 MB cache, Bus Speed: 8 GT/s DMI3"	"http://127.0.0.1:4444/static/Intel i5 9400F 2.png"	"http://127.0.0.1:4444/static/Intel i5 9400F 3.png"		
+"200"	"6"	"AMD Ryzen 5 3600XT"	"http://127.0.0.1:4444/static/AMD Ryzen 5 3600XT 1.png"	"393"	"999"	"0"	"Brand AMD; CPU Model: Ryzen 5 3600XT; CPU Speed: 4.5 GHz; CPU Socket: Socket AM4; Processor Count: 6; AMD's fastest 6 core processor for mainstream desktop, with 12 procesing threads"	"http://127.0.0.1:4444/static/AMD Ryzen 5 3600XT 2.png"	"http://127.0.0.1:4444/static/AMD Ryzen 5 3600XT 3.png"		
+"202"	"6"	"AMD Ryzen 7 3800XT"	"http://127.0.0.1:4444/static/AMD Ryzen 7 3800XT 1.png"	"453"	"999"	"0"	"Brand: AMD; Color: Black; Wattage: 105 watts; Item Dimensions LxWxH: 8 x 6 x 6 inches; Item Weight: 150 Grams; AMD's fastest 8 core processor for mainstream desktop, with 16 processing threads"	"http://127.0.0.1:4444/static/AMD Ryzen 7 3800XT 2.png"	"http://127.0.0.1:4444/static/AMD Ryzen 7 3800XT 3.png"		
+"201"	"6"	"AMD Ryzen 5 5600X"	"http://127.0.0.1:4444/static/AMD Ryzen 5 5600X 1.png"	"379"	"999"	"0"	"Brand: AMD; CPU Model: Ryzen 5; CPU Speed: 4.6 GHz; CPU Socket: Socket AM4; Processor Count: 6; AMD's fastest 6 core processor for mainstream desktop, with 12 processing threads"	"http://127.0.0.1:4444/static/AMD Ryzen 5 5600X 2.png"	"http://127.0.0.1:4444/static/AMD Ryzen 5 5600X 3.png"		
+"205"	"6"	"AMD Ryzen 9 3950X"	"http://127.0.0.1:4444/static/AMD Ryzen 9 3950X 1.png"	"709"	"999"	"0"	"Brand: AMD; CPU Model: Ryzen 9 3950X; CPU Speed: 4.7 GHz; CPU Socket: Socket AM4; Processor Count: 16; 16 cores and 32 processing threads, the most processing power you can get in mainstream desktop"	"http://127.0.0.1:4444/static/AMD Ryzen 9 3950X 2.png"	"http://127.0.0.1:4444/static/AMD Ryzen 9 3950X 3.png"		
+"203"	"6"	"AMD Ryzen 7 5800X"	"http://127.0.0.1:4444/static/AMD Ryzen 7 5800X 1.png"	"439"	"999"	"0"	"Brand: AMD; CPU Model: AMD Ryzen 7; CPU Speed: 4.7 GHz; CPU Socket: Socket AM4; Processor Count: 8; AMD's fastest 8 core processor for mainstream desktop, with 16 procesing threads"	"http://127.0.0.1:4444/static/AMD Ryzen 7 5800X 2.png"	"http://127.0.0.1:4444/static/AMD Ryzen 7 5800X 3.png"		
+"204"	"6"	"AMD Ryzen 9 3900X"	"http://127.0.0.1:4444/static/AMD Ryzen 9 3900X 1.png"	"715"	"999"	"0"	"Brand: AMD; CPU Model: AMD Ryzen 9; CPU Speed: 4.6 GHz; CPU Socket: Socket AM4; Processor Count: 12; The world's most advanced processor in the desktop PC gaming segment"	"http://127.0.0.1:4444/static/AMD Ryzen 9 3900X 2.png"	"http://127.0.0.1:4444/static/AMD Ryzen 9 3900X 3.png"		
+"301"	"1"	"ROG STRIX B560-F GAMING WIFI"	"http://127.0.0.1:4444/static/ROG STRIX B560-F GAMING WIFI-1.png"	"1699"	"700"	"1"	"Chipset:Intel® B560; Socket:Intel® LGA 1200 socket: Ready for 11th Gen Intel® Core™, 10th Gen Intel Core, Pentium® Gold and Celeron® processors; Form factor:ATX"	"http://127.0.0.1:4444/static/ROG STRIX B560-F GAMING WIFI-2.png"	"http://127.0.0.1:4444/static/ROG STRIX B560-F GAMING WIFI-3.png"		
+"302"	"1"	"ROG STRIX Z590-I GAMING WIFI"	"http://127.0.0.1:4444/static/ROG STRIX Z590-I GAMING WIFI-1.png"	"3199"	"700"	"1"	"Chipset:Intel® Z590; Socket:Intel® LGA 1200 socket: Ready for 11th Gen Intel® Core™, 10th Gen Intel Core, Pentium® Gold and Celeron® processors; Form factor:Mini ITX"	"http://127.0.0.1:4444/static/ROG STRIX Z590-I GAMING WIFI-2.png"	"http://127.0.0.1:4444/static/ROG STRIX Z590-I GAMING WIFI-3.png"		
+"303"	"1"	"ROG STRIX Z590-A GAMING WIFI"	"http://127.0.0.1:4444/static/ROG STRIX Z590-A GAMING WIFI-1.png"	"2699"	"700"	"1"	"Chipset:Intel® Z590; Socket:Intel® LGA 1200 socket: Ready for 11th Gen Intel® Core™, 10th Gen Intel Core, Pentium® Gold and Celeron® processors; Form factor:ATX"	"http://127.0.0.1:4444/static/ROG STRIX Z590-A GAMING WIFI-2.png"	"http://127.0.0.1:4444/static/ROG STRIX Z590-A GAMING WIFI-3.png"		
+"304"	"2"	"MEG Z590 ACE"	"http://127.0.0.1:4444/static/MEG Z590 ACE-1.png"	"3799"	"700"	"1"	"Chipset:Intel® Z590; Socket:Intel® LGA 1200 socket: Ready for 11th Gen Intel® Core™, 10th Gen Intel Core, Pentium® Gold and Celeron® processors; Form factor:ATX"	"http://127.0.0.1:4444/static/MEG Z590 ACE-2.png"	"http://127.0.0.1:4444/static/MEG Z590 ACE-3.png"		
+"305"	"2"	"MEG Z590I UNIFY"	"http://127.0.0.1:4444/static/MEG Z590I UNIFY-1.png"	"3999"	"700"	"1"	"Chipset:Intel® Z590; Socket:Intel® LGA 1200 socket: Ready for 11th Gen Intel® Core™, 10th Gen Intel Core, Pentium® Gold and Celeron® processors; Form factor:Mini ITX"	"http://127.0.0.1:4444/static/MEG Z590I UNIFY-2.png"	"http://127.0.0.1:4444/static/MEG Z590I UNIFY-3.png"		
+"306"	"2"	"MEG Z590 GODLIKE"	"http://127.0.0.1:4444/static/MEG Z590 GODLIKE-1.png"	"8999"	"700"	"1"	"Chipset:Intel® Z590; Socket:Intel® LGA 1200 socket: Ready for 11th Gen Intel® Core™, 10th Gen Intel Core, Pentium® Gold and Celeron® processors; Form factor:E-ATX"	"http://127.0.0.1:4444/static/MEG Z590 GODLIKE-2.png"	"http://127.0.0.1:4444/static/MEG Z590 GODLIKE-3.png"		
+"307"	"3"	"Z590 AORUS XTREME"	"http://127.0.0.1:4444/static/Z590 AORUS XTREME-1.png"	"8299"	"700"	"1"	"Chipset:Intel® Z590; Socket:Intel® LGA 1200 socket: Ready for 11th Gen Intel® Core™, 10th Gen Intel Core, Pentium® Gold and Celeron® processors; Form factor:E-ATX"	"http://127.0.0.1:4444/static/Z590 AORUS XTREME-2.png"	"http://127.0.0.1:4444/static/Z590 AORUS XTREME-3.png"		
+"308"	"3"	"
+Z490 AORUS XTREME WATERFORCE"	"http://127.0.0.1:4444/static/Z490 AORUS XTREME WATERFORCE-1.png"	"4399"	"700"	"1"	"Chipset:Intel® Z490; Socket:Intel® LGA 1200 socket: Ready for 11th Gen Intel® Core™, 10th Gen Intel Core, Pentium® Gold and Celeron® processors; Form factor:E-ATX"	"http://127.0.0.1:4444/static/Z490 AORUS XTREME WATERFORCE-2.png"	"http://127.0.0.1:4444/static/Z490 AORUS XTREME WATERFORCE-3.png"		
+"309"	"3"	"Z490 AORUS MASTER"	"http://127.0.0.1:4444/static/Z490 AORUS MASTER-1.png"	"2998"	"700"	"1"	"Chipset:Intel® Z490; Socket:Intel® LGA 1200 socket: Ready for 11th Gen Intel® Core™, 10th Gen Intel Core, Pentium® Gold and Celeron® processors; Form factor:ATX"	"http://127.0.0.1:4444/static/Z490 AORUS MASTER-2.png"	"http://127.0.0.1:4444/static/Z490 AORUS MASTER-3.png"		
+"310"	"4"	"CVN Z490 GAMING PRO V20"	"http://127.0.0.1:4444/static/CVN Z490 GAMING PRO V20-1.png"	"999"	"700"	"1"	"Chipset:Intel® Z490; Socket:Intel® LGA 1200 socket: Ready for 11th Gen Intel® Core™, 10th Gen Intel Core, Pentium® Gold and Celeron® processors; Form factor:ATX"	"http://127.0.0.1:4444/static/CVN Z490 GAMING PRO V20-2.png"	"http://127.0.0.1:4444/static/CVN Z490 GAMING PRO V20-3.png"		
+"311"	"4"	"CVN Z390 GAMING V20"	"http://127.0.0.1:4444/static/CVN Z390 GAMING V20-1.png"	"799"	"700"	"1"	"Chipset:Intel® Z390; Socket:Intel® LGA 1151 socket: Ready for 9th Gen Intel® Core™, 8th Gen Intel Core, Pentium® Gold and Celeron® processors; Form factor:ATX"	"http://127.0.0.1:4444/static/CVN Z390 GAMING V20-2.png"	"http://127.0.0.1:4444/static/CVN Z390 GAMING V20-3.png"		
+"312"	"4"	"
+CVN B460M GAMING PRO V20"	"http://127.0.0.1:4444/static/CVN B460M GAMING PRO V20-1.png"	"699"	"700"	"1"	"Chipset:Intel® B460; Socket:Intel® LGA 1200 socket: Ready for 11th Gen Intel® Core™, 10th Gen Intel Core, Pentium® Gold and Celeron® processors; Form factor:M-ATX"	"http://127.0.0.1:4444/static/CVN B460M GAMING PRO V20-2.png"	"http://127.0.0.1:4444/static/CVN B460M GAMING PRO V20-3.png"		
